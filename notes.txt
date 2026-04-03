@@ -8,7 +8,7 @@ function doSomething(int naur){
 
     case 1:
     
-    //don't do something
+    //naur
 
     break;
 
