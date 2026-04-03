@@ -2,17 +2,21 @@ I am a simple txt file
 
 consider the following:
 
-function doSomething(string naur){
+function doSomething(int naur){
   
-  if(!naur){
+  switch(naur):
 
-    return yeah 
-  
-  } else {
+    case 1:
     
-    return naur
+    //do something
 
-  }
+    break;
+
+    case 2;
+  
+    //do nothing
+
+    break
 
 }
 
