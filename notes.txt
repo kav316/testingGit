@@ -1,0 +1,19 @@
+I am a simple txt file
+
+consider the following:
+
+function doSomething(string naur){
+  
+  if(!naur){
+
+    return yeah 
+  
+  } else {
+    
+    return naur
+
+  }
+
+}
+
+
